@@ -1,0 +1,33 @@
+{
+    "name": "Varisha Bulan Azzayu - Electronic Engineering",
+    "description": "Electronic Engineering graduate from Politeknik Negeri Semarang with practical experience in embedded systems, IoT, electronics, instrumentation, and industrial automation. Experienced in designing and implementing smart monitoring and control systems using Arduino, ESP8266/ESP32, MQTT communication, sensors, and HMI platforms. Familiar with control system design, electronic troubleshooting, PCB prototyping, and system integration. Committed to delivering reliable engineering solutions while continuously learning emerging technologies..",
+    "profileImage": "images/foto.jpeg",
+    "email": "varisha2112@gmail.com",
+    "phone": "+62 (819) 15134245",
+    "socialMedia": [
+	{
+            "platform": "Github",
+            "url": "https://github.com/varishamoon"
+        },
+        {
+            "platform": "Instagram",
+            "url": "https://www.instagram.com/varishamoon?igsh=MWQzcWNoNm94bmh0Mw=="
+        },
+        {
+            "platform": "Twitter",
+            "url": "https://x.com/oiiittttt"
+        }
+    ],
+    "cv": {
+			"text": "Download CV",
+			"file": "docs/cv.pdf",
+			"icon": "fas fa-file-pdf"
+	},
+    "skills": [
+        {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 50},
+        {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 50},
+	{"name": "Hardware Programming", "icon": "fas fa-c", "level": 50},
+	{"name": "Project Management", "icon": "fas fa-list-check", "level": 80},
+	{"name": "Foreign Languages", "icon": "fas fa-language", "level": 50}
+    ]
+}

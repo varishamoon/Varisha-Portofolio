@@ -1,0 +1,23 @@
+[
+    {
+        "company": "PT. Panasonic Manufacturing Indonesia",
+		"logo":"images/logo-panasonic.jpg",
+        "position": "Operator",
+        "year": "2022",
+        "description": "Carrying out duties as a Production Operator in the process of rolling radio chassis and packaging the final products. Used to working in a production environment with daily targets, highly detail-oriented, able to work well in a team, and committed to completing tasks according to the set targets and schedule."
+    },
+	{
+        "company": "Panasonic Service Center Semarang",
+		"logo":"images/logo-service.jpg",
+        "position": "Service Technician Assistant",
+        "year": "2022",
+        "description": "I assist with inspection, diagnosis, repair, and testing of electronic devices. I also took apart and reassembled devices, replaced damaged components, installed software when needed, and documented service results according to company procedures. This experience improved my skills in troubleshooting, damage analysis, using electronic measuring tools, as well as applying quality and safety standards."
+    },
+    {
+        "company": "PT. Xentronic Inovasi Indonesia",
+		"logo":"images/logo-xentronic.png",
+        "position": "Technician Assistant",
+        "year": "2025",
+        "description": "I work on battery assembly for medical devices, check and repair medical equipment that is damaged, and perform tests to make sure the devices function according to standards. I’m also involved in hospital visits to inspect, pick up, and return medical equipment that needs servicing. This experience has helped me develop skills in troubleshooting, assembling electronic devices, following work procedures, and communicating and coordinating with clients in a professional work environment."
+    }
+]

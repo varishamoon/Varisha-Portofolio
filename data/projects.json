@@ -1,11 +1,10 @@
 [
     {
-        "title": "Pemanas Telur",
+        "title": "Kendali suhu dan Kelembaban pada box kamera",
         "year": "2024",
         "partner": "Classmate",
         "role": "Group Member",
-        "description": "Developed a portable, solar-powered water purification system for rural communities. Achieved 99.9% purification efficiency.",
-        "image": "images/projek.jpeg",
-        "link": "https://example.com/solar-water"
+        "description": "Developing a temperature and humidity control system for a camera box.",
+        "image": "images/projek.jpeg"
     }
 ]
